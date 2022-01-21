@@ -1,0 +1,57 @@
+@media all and (max-width: 1024px)
+{
+	#bloc_page
+	{
+		width: auto;
+	}
+	nav
+	{
+		width: auto;text-align: left;
+	}
+	nav ul
+	{
+		flex-direction: ;
+		width:auto;
+	}
+	nav li
+	{
+		padding-left:;
+		width:auto;
+	}
+	nav a
+	{
+		font-size:;
+		width:auto;
+	}
+	nav a:hover
+	{
+		border-bottom:;
+		width:auto;
+	}
+	section
+	{
+		flex-direction:;
+		width:auto;
+	}
+	article
+	{
+		width: auto;
+		margin-bottom:;
+	}
+	footer
+	{
+		width:auto;
+	}
+	p
+	{
+		width:auto;
+	}
+	input
+	{
+		width:auto;
+	}
+	imageflottante
+	{
+		width:auto;
+	}
+}
